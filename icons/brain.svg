@@ -1,1 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.998 7.127Q17.48 7 18 7a4 4 0 1 1-1.027 7.867m.025-7.74L17 7a4 4 0 0 0-7.91-.85m7.908.977A4 4 0 0 1 16.465 9m.508 5.867q.027-.18.027-.367a2.5 2.5 0 0 0-2-2.45m1.973 2.817A2.5 2.5 0 0 1 14.5 17H14a4 4 0 0 0-4 4M9.09 6.15a4 4 0 0 0-4.932 4.97M9.09 6.15A4 4 0 0 1 11.465 8m-7.306 3.12A3.001 3.001 0 0 0 5 17a3 3 0 0 0 2.83-2m-3.671-3.88q.136.467.376.88m7.301-.256c-.51.491-1.383.576-2.129.157c-.746-.42-1.127-1.21-.972-1.901" color="black"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6309"
+   sodipodi:docname="brain.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6313" />
+  <sodipodi:namedview
+     id="namedview6311"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.844039"
+     inkscape:cx="2.9972884"
+     inkscape:cy="5.1924856"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6309" />
+  <path
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="1.5"
+     d="M 16.998,7.127 C 17.319333,7.0423333 17.653333,7 18,7 20.413103,7.00248 22.274595,9.1249884 21.962226,11.517785 21.649858,13.910582 19.30587,15.484082 16.973,14.867 M 16.998,7.127 17,7 C 17.007535,2.2015112 10.102145,1.4594655 9.09,6.15 m 7.908,0.977 C 16.977342,7.7857083 16.79425,8.4291077 16.465,9 m 0.508,5.867 C 16.991,14.747 17,14.624667 17,14.5 c 2.43e-4,-1.188172 -0.835834,-2.212366 -2,-2.45 m 1.973,2.817 C 16.791115,16.092577 15.739,17.000042 14.5,17 H 14 c -2.209139,0 -4,1.790861 -4,4 M 9.09,6.15 C 6.0635593,5.2906318 3.2754289,8.1002442 4.158,11.12 M 9.09,6.15 c 1.002374,0.2838556 1.854454,0.9475814 2.375,1.85 m -7.306,3.12 c 0.090667,0.311333 0.216,0.604667 0.376,0.88 m 7.301,-0.256 C 11.326,12.235 10.453,12.32 9.707,11.901 8.961,11.481 8.58,10.691 8.735,10 M 4.159,11.12 C 0.83695853,12.097284 1.5371982,16.993133 5,17 c 1.2719262,6.67e-4 2.4060247,-0.800816 2.83,-2 -0.5495529,2.497221 0.1722894,4.497804 2.17,6"
+     color="#000000"
+     id="path6307"
+     sodipodi:nodetypes="ccscccccccccccscccccccccccccc" />
+</svg>
